@@ -1,0 +1,14 @@
+__pycache__/
+statistics
+video/*
+.vscode/
+data/video/*
+data/images/*
+data/datasets/*
+weights/*
+statistics/screenshots/*
+statistics/data/*
+graphics/*
+.idea
+*.avi
+*.mp4
