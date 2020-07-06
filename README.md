@@ -1,4 +1,4 @@
-# pandemic_vision
+# Pandemic Vision
 
 Статистика нарушений коронавирусного режима. <br/>
 
