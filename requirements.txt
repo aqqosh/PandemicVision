@@ -3,7 +3,7 @@ decorator==4.4.2
 filterpy==1.4.5
 future==0.18.2
 imageio==2.8.0
-joblib==0.16.0
+joblib==1.2.0
 kiwisolver==1.2.0
 llvmlite==0.33.0
 matplotlib==3.2.2
